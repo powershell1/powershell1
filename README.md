@@ -1,9 +1,10 @@
 ### Hi there 👋
 #### My name is _Pummiphach_ or you can call me _Pum_.
-- Im Bangkok Christian College student
+- I'm Bangkok Christian College student
+- I'm studying in grade 7
 - My mentor teacher is wa-ni-da
-- I love chicken, chip, pepsi, anime, programing and game
-- I hate cockroach, centipede, reading and test
+- I'm love beautiful girl, chicken, chip, pepsi, anime, programing and game
+- I'm hate cockroach, centipede, reading and test
 
 #### About me
 - 🔭 I’m currently working on javascript backend
